@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MustBeCoy
+- 👋 Hi, I’m @Bhupendra
 - 👀 I’m interested in eSports and coding 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on development 
